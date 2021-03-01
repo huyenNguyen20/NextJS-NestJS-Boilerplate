@@ -8,6 +8,7 @@ NextJS-NestJS Boilerplate is an boiler to build  web apps using NextJS, ReactJS,
 * NestJS
 * Express
 * CASL
+* Swagger UI on http://localhost:3000/api
 * OAuth
 * Passport-Local
 * AWS-SES
